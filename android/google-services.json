@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "217653179317",
+    "firebase_url": "https://react-native-training.firebaseio.com",
+    "project_id": "react-native-training",
+    "storage_bucket": "react-native-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217653179317:android:41a9daf92e13bb3f",
+        "android_client_info": {
+          "package_name": "com.android.tools.build"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217653179317-jidpfeshig3d927l4hko83557hvk1nm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP6EvZEu-yculyeZloIaeXheFVsgB3xZw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
